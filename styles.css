@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body{
+    background-color: #000000;
+}
+
+.container-buttons{
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+button {
+    background-color: rgb(255, 9, 9);
+    font-weight: bold;
+    border: none;
+    color: #000000;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    width: 110px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+ul {
+    list-style: none;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: 200px 200px 200px;
+    gap: 20px;
+}
+
+li {
+    border: 2px solid rgb(24, 11, 201);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+p {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.iten-price {
+    color: rgb(255, 9, 9); 
+}
+
+img {
+    width: 100%;
+    border-radius: 5px;
+}
