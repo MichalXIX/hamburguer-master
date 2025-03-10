@@ -1,5 +1,7 @@
 <h1>hamburguer master</h1>
 
+<img src="./assets/Captura de tela 2025-03-09 213804.png"></img>
+
 <p>Esse foi um projeto utilizando conhecimento em JavaScript, sendo eles: for each, map, reduce e filter. Utilzei linguagens como:</p>
 <br>
 <ul
